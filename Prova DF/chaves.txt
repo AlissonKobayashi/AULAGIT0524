@@ -1,0 +1,5 @@
+publica: 3f00340d55a5a9f3f65d5d7cfc93f90f
+privada: b5a8857b185f74c8465f22b2b7888b7d0cd3afb9
+hash: 6914f8c551e040b7e01565fd9de3dc46
+
+https://gateway.marvel.com/v1/comics?ts=1apikey=3f00340d55a5a9f3f65d5d7cfc93f90f&hash=6914f8c551e040b7e01565fd9de3dc46
