@@ -1,0 +1,7 @@
+producer.js: é responsável por enviar mensagens para uma fila específica no RabbitMQ.
+consumer.js: é responsável por receber e processar as mensagens da fila.
+server.js: atua como um intermediador entre o Postman e o RabbitMQ.
+
+RabbitMQ: é um facilitador de mensagens que utiliza fila.
+BullMQ: é uma biblioteca de gerenciamento de fila de tarefa.
+Kafla: é uma plataforma projetada para processamneto de fluxo de dados.
